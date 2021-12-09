@@ -126,3 +126,13 @@ def add_indicators(raw_df):
     raw_df = VR(raw_df)
     raw_df = bias(raw_df)
     return raw_df
+
+def create_Y_close_diff(raw_df,horizon = -1):
+    Y = raw_df.Close.diff(horizon)
+    return Y
+
+def create_Y_up_down(raw_df,horizon = -1):
+  Y = np.sign(raw_df.Close.shift(-1).diff(1))
+  Y[Y<=0] = 0
+  return Y
+  
