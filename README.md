@@ -1,7 +1,9 @@
 # project-abvichar-sboddu
 Data Mining Final Project
 
-The report ,ppt , code, results and dataset are uploaded. 
+The report ,ppt , code, results and dataset are uploaded. the data set is too big so onlt 1k fikkes out of 6 k files got uploaded , but the rest of the files are available in the below link
+https://drive.google.com/drive/folders/1yaSqHjYmyV3dpdCSv7R0wIfvorXZlrXJ?usp=sharing
+
 
 Papers: 
 
