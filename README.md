@@ -1,6 +1,8 @@
 # project-abvichar-sboddu
 Data Mining Final Project
 
+The report ,ppt , code, results and dataset are uploaded. 
+
 Papers: 
 
 Short-term stock market price trend prediction using a comprehensive deep learning system | Journal of Big Data | Full Text 
